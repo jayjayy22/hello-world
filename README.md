@@ -1,3 +1,3 @@
 # hello-world
 repository
-i like programming
+Name is jay, i'm learning how to program so starting off fresh.
